@@ -1,0 +1,5 @@
+name: GroovyRuntime
+authors: [Double0negative, MCSG]
+version: 000
+main: org.mcsg.groovy.GroovyRuntimeSupport
+
