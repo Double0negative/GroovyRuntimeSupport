@@ -6,7 +6,7 @@ Simply build the project with
 mvn clean install
 ```
 
-and copy the jar from the target folder. Place it in your plugin folder and add a dependecy to "GroovyRuntime" in your plugin.yml
+and copy the jar from the target folder. Place it in your plugin folder and add a dependency to "GroovyRuntime" in your plugin.yml
 
 ```
 depends: [GroovyRuntime]
